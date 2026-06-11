@@ -1,0 +1,10 @@
+wikipedia
+pywhatkit
+pyttsx3
+requests
+pyjokes
+psutil
+SpeechRecognition
+python-dotenv
+pyautogui
+pyaudio
